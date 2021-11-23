@@ -1,0 +1,51 @@
+Body {
+background: skyblue;
+color: #Black;
+}
+
+nav > a {
+  background-color: yellow;
+}
+
+nav > a:hover{
+  background-color: green;
+}
+
+/* Koppen */
+h1, h2, h3, h4, h5, h6{
+  color: #Black;
+  line-height: 1;
+}
+
+ div{
+   padding: 5px;
+   width: 80%;
+   margin: auto;
+ }
+
+header {
+  background-color:Red;
+  width: 100%;
+  height: 30px;
+}
+
+footer {
+  background-color:red;
+  width: 100%;
+  height: 25px;
+}
+
+/* Inhoud */
+.inhoud {
+  font-size: 1.1em;
+  background-color: #E8D2BE;
+}
+
+.p1{
+  background-color:steelblue;
+  width:400px;
+}
+
+#verzendknop:active{
+  background-color: green;
+}
